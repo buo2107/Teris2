@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Teris/Pods-Teris-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ImagePicker/ImagePicker.framework
+${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework
+${BUILT_PRODUCTS_DIR}/PageMenu/PageMenu.framework

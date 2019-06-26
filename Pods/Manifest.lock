@@ -1,0 +1,26 @@
+PODS:
+  - ImagePicker (3.1.0)
+  - NVActivityIndicatorView (4.7.0):
+    - NVActivityIndicatorView/Presenter (= 4.7.0)
+  - NVActivityIndicatorView/Presenter (4.7.0)
+  - PageMenu (2.0.0)
+
+DEPENDENCIES:
+  - ImagePicker
+  - NVActivityIndicatorView
+  - PageMenu
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ImagePicker
+    - NVActivityIndicatorView
+    - PageMenu
+
+SPEC CHECKSUMS:
+  ImagePicker: db1fd7626337b2577c523bef5f499bbbe5a37079
+  NVActivityIndicatorView: b19ddab2576f805cbe0fb2306cba3476e09a1dea
+  PageMenu: 9c38fd7e0d9ef4b1408320f55bb907bbc0e538dc
+
+PODFILE CHECKSUM: 800219365006b1cc1c27786b75b376ae7abf0c17
+
+COCOAPODS: 1.7.2

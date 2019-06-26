@@ -1,0 +1,6 @@
+framework module Pods_Teris {
+  umbrella header "Pods-Teris-umbrella.h"
+
+  export *
+  module * { export * }
+}
